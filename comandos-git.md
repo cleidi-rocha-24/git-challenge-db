@@ -1,10 +1,1 @@
-Era uma vez um arquivo com conflitos
-E ent√£o meu PR quebrou
-
-    Sim! Isso vai acontecer com alguma certa frequ√™ncia. Comandos novos para gravar n√£o s√£o da noite para o dia. Por isso a arte de praticar, pratique muito at√© se tornar faceis.
-
-E como dito no desafio
-
-Esse arquivo cont√©m conflitos. Primeiro, ajuste o que est√° conflitando.
-
-alt text
+'alterou no projeto a uma "caixa". Quando vocà utilizar o ponto (.) ap¢s o comando git add, ir† adicionar todos os arquivos que foi modificado no seu projeto local. Como fica: git add .- git commit -m "recado" : Este comando ir† "fechar e lacrar a sua caixa" de alteraá‰es, e nele pode ser adicionado um recado sobre o que est† dentro da "caixa". ê sempre uma boa pratica informar o que foi alterado e porque dessas alteraá‰es.-git push : Neste comando vocà vai enviar a sua "caixa" para o reposit¢rio remoto' 

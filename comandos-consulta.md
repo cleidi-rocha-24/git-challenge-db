@@ -1,0 +1,1 @@
+'**cd..** - navega‡Æo (de retorno) entre os diret¢rios**mkdir** - cria‡Æo de um diret¢rio - ex: mkdir tilhaGit_desafio1**cd** - navega‡Æo (de entrada) entre os diret¢rios**dir** - listar conte£do do diret¢rio' 
